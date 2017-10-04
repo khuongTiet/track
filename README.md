@@ -2,13 +2,13 @@
 Spotify API Project
 
 # Installation
-## Required:
-* node
-* npm / yarn
-* Spotify api keys
-## Set up:
-* run `npm install` or `yarn` to install dependencies on both track-api and track-react
-* start up both
+Required:
+ * node
+ * npm / yarn
+ * Spotify api keys
+ ## Set up:
+ * run `npm install` or `yarn` to install dependencies on both track-api and track-react
+ * start up both
 
 
 # TO-DO
