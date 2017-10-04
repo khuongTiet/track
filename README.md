@@ -1,5 +1,5 @@
 # track
-Spotify API Project
+Spotify API Project using [thelinmichael's](https://github.com/thelinmichael) and [JMPerez's](https://github.com/JMPerez), [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) to fetch calls on an express server and [React](https://github.com/facebook/react) in conjunction with [Semantic UI React](https://react.semantic-ui.com/) to create the front end 
 
 # Installation
 Required:
